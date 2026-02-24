@@ -1,0 +1,2090 @@
+﻿Build1=Default,gr.mythologia
+File1=el\index.html
+File10=images\images\acheronhirschl.jpg
+File100=images\images\dianeira.jpg
+File101=images\images\dianeira3.jpg
+File102=images\images\dias.jpg
+File103=images\images\dikteon.jpg
+File104=images\images\dimitra.jpg
+File105=images\images\dimitra3.jpg
+File106=images\images\diomidis.jpg
+File107=images\images\dionysos.jpg
+File108=images\images\dionysus_2.jpg
+File109=images\images\dioskoyroi.jpg
+File11=images\images\achilleion.jpg
+File110=images\images\e.gif
+File111=images\images\e.png
+File112=images\images\e_hires.png
+File113=images\images\echidna.jpg
+File114=images\images\echonarcissuswaterhouse.jpg
+File115=images\images\ekabi.jpg
+File116=images\images\ekatoxeires.jpg
+File117=images\images\ekatoxeires3.jpg
+File118=images\images\electra.jpg
+File119=images\images\engelados.jpg
+File12=images\images\achillesh.gif
+File120=images\images\eoshelios.jpg
+File121=images\images\epimitheas.jpg
+File122=images\images\epsilon_2.jpg
+File123=images\images\erato.jpg
+File124=images\images\erevos.jpg
+File125=images\images\erexthion.jpg
+File126=images\images\erinyes.jpg
+File127=images\images\erinyes3.jpg
+File128=images\images\erixthonios.jpg
+File129=images\images\eros.jpg
+File13=images\images\achilleshorses.jpg
+File130=images\images\eros3.jpg
+File131=images\images\eteoclesandpolynices.png
+File132=images\images\europacoypel.jpg
+File133=images\images\europe.jpg
+File134=images\images\exetlaios.png
+File135=images\images\eyridiki.jpg
+File136=images\images\faidra.jpg
+File137=images\images\fineas.jpg
+File138=images\images\fineas3.jpg
+File139=images\images\fobos.png
+File14=images\images\actaeontitian.jpg
+File140=images\images\fobos3.png
+File141=images\images\frame1.jpg
+File142=images\images\frixos.jpg
+File143=images\images\gaia_greek_goddess.jpg
+File144=images\images\gigantomachyvagas.jpg
+File145=images\images\girionis.png
+File146=images\images\glaukefountain.jpg
+File147=images\images\graienedwardburnejones.jpg
+File148=images\images\greek_background.jpg
+File149=images\images\greek_mythology_collaz.jpg
+File15=images\images\adonis.jpg
+File150=images\images\hades.jpg
+File151=images\images\hades3.jpg
+File152=images\images\halcyonedraper.jpg
+File153=images\images\harpiesdante.jpg
+File154=images\images\hebe.jpg
+File155=images\images\hecatecapitol.jpg
+File156=images\images\hector1_4609.jpg
+File157=images\images\hector2.jpg
+File158=images\images\hector3.jpg
+File159=images\images\hector3_b.gif
+File16=images\images\aeneasbarocci.jpg
+File160=images\images\helios3_long.jpg
+File161=images\images\hephaestus0536.jpg
+File162=images\images\hera_greek_goddess.jpg
+File163=images\images\hercules_and_omphale_3.jpg
+File164=images\images\hercules_extra.jpg
+File165=images\images\hercules_stiles.png
+File166=images\images\herculesslayinghydra.jpg
+File167=images\images\hermes.jpg
+File168=images\images\hermes_trismegistos.jpg
+File169=images\images\hermes3.jpg
+File17=images\images\agamemnon3.jpg
+File170=images\images\hesperides.jpg
+File171=images\images\hestia.jpg
+File172=images\images\hexagon_wallpaper_abstract_3d_wallpaper_1600_1200_52.jpg
+File173=images\images\hfaistos3.jpg
+File174=images\images\hfaistos3_b.jpg
+File175=images\images\hippolytedeinomache.jpg
+File176=images\images\hlysia.png
+File177=images\images\hmitheos.png
+File178=images\images\hsalfeiosolympia.jpg
+File179=images\images\hyperborea.jpg
+File18=images\images\agamemnonulisse1955_1.jpg
+File180=images\images\iapetos.jpg
+File181=images\images\iaso.jpg
+File182=images\images\icarus.jpg
+File183=images\images\iliasheroes.jpg
+File184=images\images\images_smaller\2nd_3rd_century_CE.jpg
+File185=images\images\images_smaller\AcheronHirschl.jpg
+File186=images\images\images_smaller\achilleas-2.jpg
+File187=images\images\images_smaller\achilleas-3.jpg
+File188=images\images\images_smaller\achilleas-4.jpg
+File189=images\images\images_smaller\Achilleion.jpg
+File19=images\images\ainiades.jpg
+File190=images\images\images_smaller\AchillesH.gif
+File191=images\images\images_smaller\achillesHorses.jpg
+File192=images\images\images_smaller\ActaeonTitian.jpg
+File193=images\images\images_smaller\Adonis.jpg
+File194=images\images\images_smaller\adonis-2.jpg
+File195=images\images\images_smaller\AeneasBarocci.jpg
+File196=images\images\images_smaller\afroditi-1.jpg
+File197=images\images\images_smaller\afroditi-2.jpg
+File198=images\images\images_smaller\afroditi-3.jpg
+File199=images\images\images_smaller\afroditi-4.jpg
+File2=el\manifest.json
+File20=images\images\aiolos.jpg
+File200=images\images\images_smaller\Agamemnon-2.jpg
+File201=images\images\images_smaller\Agamemnon3.jpg
+File202=images\images\images_smaller\agamemnon-3.jpg
+File203=images\images\images_smaller\AgamemnonUlisse1955 (1).jpg
+File204=images\images\images_smaller\aiantas-2.jpg
+File205=images\images\images_smaller\aiantas-3.jpg
+File206=images\images\images_smaller\ainiades.jpg
+File207=images\images\images_smaller\aiolos.jpg
+File208=images\images\images_smaller\aiolos-2.jpg
+File209=images\images\images_smaller\aiolos-3.jpg
+File21=images\images\aiolos_3.jpg
+File210=images\images\images_smaller\Alcestis.jpg
+File211=images\images\images_smaller\AlcmeneBurn.jpg
+File212=images\images\images_smaller\alkinoos.jpg
+File213=images\images\images_smaller\amphitryon.jpg
+File214=images\images\images_smaller\amvrosia.jpg
+File215=images\images\images_smaller\amvrosia3.jpg
+File216=images\images\images_smaller\ANCIENT BACKGROUND 1.jpg
+File217=images\images\images_smaller\ANCIENT BACKGROUND 1-b.jpg
+File218=images\images\images_smaller\ANCIENT BACKGROUND 2.jpg
+File219=images\images\images_smaller\ANCIENT BACKGROUND-inside.jpg
+File22=images\images\alcestis.jpg
+File220=images\images\images_smaller\ancient.jpg
+File221=images\images\images_smaller\ancient-background_6.jpg
+File222=images\images\images_smaller\ancient-background_6-b.jpg
+File223=images\images\images_smaller\ancient-background_9.jpg
+File224=images\images\images_smaller\AncientBackground2.jpg
+File225=images\images\images_smaller\ancient-background4.jpg
+File226=images\images\images_smaller\AndromedaDelacroix.jpg
+File227=images\images\images_smaller\antaios.jpg
+File228=images\images\images_smaller\AntigoneOedipusCFJalabeat.jpg
+File229=images\images\images_smaller\Aphaia2.jpg
+File23=images\images\alcmeneburn.jpg
+File230=images\images\images_smaller\apollo_fws.jpg
+File231=images\images\images_smaller\apollo-2.jpg
+File232=images\images\images_smaller\apollo-3.jpg
+File233=images\images\images_smaller\application-icon-64x64.png
+File234=images\images\images_smaller\AquaFlowers_background.jpg
+File235=images\images\images_smaller\arethusa.jpg
+File236=images\images\images_smaller\Argonauten.jpg
+File237=images\images\images_smaller\argonaytiki.jpg
+File238=images\images\images_smaller\argonaytiki3.jpg
+File239=images\images\images_smaller\AriadneFrederickWatts.jpg
+File24=images\images\alkinoos.jpg
+File240=images\images\images_smaller\aris.jpg
+File241=images\images\images_smaller\aris-2.jpg
+File242=images\images\images_smaller\aris3.jpg
+File243=images\images\images_smaller\Artemis.jpg
+File244=images\images\images_smaller\artemis-2.jpg
+File245=images\images\images_smaller\artemis-3.jpg
+File246=images\images\images_smaller\Artemis-greek-god.jpg
+File247=images\images\images_smaller\Asclepius.jpg
+File248=images\images\images_smaller\asklipios-2.jpg
+File249=images\images\images_smaller\athena-2.jpg
+File25=images\images\amphitryon.jpg
+File250=images\images\images_smaller\athena-3.jpg
+File251=images\images\images_smaller\athena-4.jpg
+File252=images\images\images_smaller\athena-extra.jpg
+File253=images\images\images_smaller\AthenaFr.jpg
+File254=images\images\images_smaller\athloi.jpg
+File255=images\images\images_smaller\athloi-2.jpg
+File256=images\images\images_smaller\athloi-3.jpg
+File257=images\images\images_smaller\ATLAS.jpg
+File258=images\images\images_smaller\atlas-2.jpg
+File259=images\images\images_smaller\atlas-3.jpg
+File26=images\images\amvrosia.png
+File260=images\images\images_smaller\atlas-4.jpg
+File261=images\images\images_smaller\AtlasHerc01.jpg
+File262=images\images\images_smaller\AtlasVatican.jpg
+File263=images\images\images_smaller\BellerophonProetus.jpg
+File264=images\images\images_smaller\CalypsoHermesFlaxman.jpg
+File265=images\images\images_smaller\CassandraEvelynMorgan.jpg
+File266=images\images\images_smaller\centaur.jpg
+File267=images\images\images_smaller\centaur3.jpg
+File268=images\images\images_smaller\cerberus.jpg
+File269=images\images\images_smaller\chaos.jpg
+File27=images\images\amvrosia3.jpg
+File270=images\images\images_smaller\Chimera 2.jpg
+File271=images\images\images_smaller\chimera.jpg
+File272=images\images\images_smaller\Clio1.jpg
+File273=images\images\images_smaller\collage1.jpg
+File274=images\images\images_smaller\collage-3.pwp
+File275=images\images\images_smaller\collage-3-PM\Page1\background\bg010.gif
+File276=images\images\images_smaller\collage-3-PM\Page1\background\bg122.jpg
+File277=images\images\images_smaller\collage-3-PM\Page1\photo\achilleas-4.jpg
+File278=images\images\images_smaller\collage-3-PM\Page1\photo\Achilleion.jpg
+File279=images\images\images_smaller\collage-3-PM\Page1\photo\afroditi-2.jpg
+File28=images\images\ancient.jpg
+File280=images\images\images_smaller\collage-3-PM\Page1\photo\apollo_fws.jpg
+File281=images\images\images_smaller\collage-3-PM\Page1\photo\argonaytiki3.jpg
+File282=images\images\images_smaller\collage-3-PM\Page1\photo\athloi-2.jpg
+File283=images\images\images_smaller\collage-3-PM\Page1\photo\daidalos.jpg
+File284=images\images\images_smaller\collage-3-PM\Page1\photo\e.png
+File285=images\images\images_smaller\collage-3-PM\Page1\photo\EROS.jpg
+File286=images\images\images_smaller\collage-3-PM\Page1\photo\europe.jpg
+File287=images\images\images_smaller\collage-3-PM\Page1\photo\nafsika-2.jpg
+File288=images\images\images_smaller\collage-3-PM\Page1\photo\patroklos.jpg
+File289=images\images\images_smaller\collage-3-PM\Page1\photo\poseidon3.jpg
+File29=images\images\ancient_background_1.jpg
+File290=images\images\images_smaller\collage-3-PM\Page1\photo\priamos.jpg
+File291=images\images\images_smaller\collage-3-PM\Page1\photo\promitheas-5.jpg
+File292=images\images\images_smaller\collage-3-PM\Page1\photo\theogonia3_croped.jpg
+File293=images\images\images_smaller\collage-3-PM\Page1\photo\tilemaxos.jpg
+File294=images\images\images_smaller\collage-3-PM\Page1\photo\TROYAN HORSE.jpg
+File295=images\images\images_smaller\collage-3-PM\Page1\photo\zeus-fourth.jpg
+File296=images\images\images_smaller\cyclops.jpg
+File297=images\images\images_smaller\cyclops-2.jpg
+File298=images\images\images_smaller\DAIDALOS.jpg
+File299=images\images\images_smaller\daidalos-2.jpg
+File3=en\index.html
+File30=images\images\ancient_background_2.jpg
+File300=images\images\images_smaller\daidalos-3.jpg
+File301=images\images\images_smaller\Danae3.jpg
+File302=images\images\images_smaller\DanaeHendrickGoltzius.jpg
+File303=images\images\images_smaller\DanaidesJanFransDeboever (1).jpg
+File304=images\images\images_smaller\DanaidesJanFransDeboever.jpg
+File305=images\images\images_smaller\DANAOS.jpg
+File306=images\images\images_smaller\DaphneLefevre.jpg
+File307=images\images\images_smaller\DARDANOS-TROAS.png
+File308=images\images\images_smaller\DeathOfAjax.jpg
+File309=images\images\images_smaller\DEIMOS.jpg
+File31=images\images\ancient_background_5.jpg
+File310=images\images\images_smaller\Demodocus.jpg
+File311=images\images\images_smaller\DIANEIRA.jpg
+File312=images\images\images_smaller\DIANEIRA3.jpg
+File313=images\images\images_smaller\DIAS.jpg
+File314=images\images\images_smaller\DIKTEON.jpg
+File315=images\images\images_smaller\DIMITRA.jpg
+File316=images\images\images_smaller\DIMITRA3.jpg
+File317=images\images\images_smaller\DIOMIDIS.jpg
+File318=images\images\images_smaller\DIONYSOS.jpg
+File319=images\images\images_smaller\dionysus-2.jpg
+File32=images\images\ancient_background_6.jpg
+File320=images\images\images_smaller\DIOSKOYROI.jpg
+File321=images\images\images_smaller\E.gif
+File322=images\images\images_smaller\E.png
+File323=images\images\images_smaller\Echidna.jpg
+File324=images\images\images_smaller\EchoNarcissusWaterhouse.jpg
+File325=images\images\images_smaller\EKABI.jpg
+File326=images\images\images_smaller\EKATOXEIRES.jpg
+File327=images\images\images_smaller\EKATOXEIRES3.jpg
+File328=images\images\images_smaller\electra.jpg
+File329=images\images\images_smaller\ENGELADOS.jpg
+File33=images\images\ancient_background_7.jpg
+File330=images\images\images_smaller\EosHelios.jpg
+File331=images\images\images_smaller\EPIMITHEAS.jpg
+File332=images\images\images_smaller\epsilon (2).jpg
+File333=images\images\images_smaller\ERATO.jpg
+File334=images\images\images_smaller\EREVOS.jpg
+File335=images\images\images_smaller\erexthion.jpg
+File336=images\images\images_smaller\ERINYES.jpg
+File337=images\images\images_smaller\ERINYES3.jpg
+File338=images\images\images_smaller\ERIXTHONIOS.jpg
+File339=images\images\images_smaller\EROS.jpg
+File34=images\images\ancient_background_8.jpg
+File340=images\images\images_smaller\EROS3.jpg
+File341=images\images\images_smaller\EteoclesAndPolynices.png
+File342=images\images\images_smaller\EuropaCoypel.jpg
+File343=images\images\images_smaller\Europe.jpg
+File344=images\images\images_smaller\europe-3.jpg
+File345=images\images\images_smaller\EXETLAIOS.jpg
+File346=images\images\images_smaller\exidna-2.jpg
+File347=images\images\images_smaller\EYRIDIKI.jpg
+File348=images\images\images_smaller\faethon-2.jpg
+File349=images\images\images_smaller\faidra.jpg
+File35=images\images\ancient_background_9.jpg
+File350=images\images\images_smaller\fineas.jpg
+File351=images\images\images_smaller\fineas3.jpg
+File352=images\images\images_smaller\fobos.jpg
+File353=images\images\images_smaller\frixos.jpg
+File354=images\images\images_smaller\gaia_greek_goddess.jpg
+File355=images\images\images_smaller\GigantomachyVagas.jpg
+File356=images\images\images_smaller\GIRIONIS.jpg
+File357=images\images\images_smaller\GlaukeFountain.jpg
+File358=images\images\images_smaller\GraienEdwardBurneJones.jpg
+File359=images\images\images_smaller\greek-background.jpg
+File36=images\images\ancient_background4.jpg
+File360=images\images\images_smaller\hades.jpg
+File361=images\images\images_smaller\hades-2.jpg
+File362=images\images\images_smaller\hades3.jpg
+File363=images\images\images_smaller\HalcyoneDraper.jpg
+File364=images\images\images_smaller\HarpiesDante.jpg
+File365=images\images\images_smaller\Hebe.jpg
+File366=images\images\images_smaller\HecateCapitol.jpg
+File367=images\images\images_smaller\hector1-4609.jpg
+File368=images\images\images_smaller\hector2.jpg
+File369=images\images\images_smaller\hector3.jpg
+File37=images\images\ancientbackground2.jpg
+File370=images\images\images_smaller\hector3_b.jpg
+File371=images\images\images_smaller\helen1.jpg
+File372=images\images\images_smaller\helen2.jpg
+File373=images\images\images_smaller\helios3_long.jpg
+File374=images\images\images_smaller\helios-4.jpg
+File375=images\images\images_smaller\hephaestus0536.jpg
+File376=images\images\images_smaller\hera_greek_goddess.jpg
+File377=images\images\images_smaller\hera-2.jpg
+File378=images\images\images_smaller\hera-3.jpg
+File379=images\images\images_smaller\Hercules_and_Omphale_3.jpg
+File38=images\images\ancientbackground3.jpg
+File380=images\images\images_smaller\HERCULES_STILES.jpg
+File381=images\images\images_smaller\hercules-extra.jpg
+File382=images\images\images_smaller\HerculesSlayingHydra.jpg
+File383=images\images\images_smaller\HERMES.jpg
+File384=images\images\images_smaller\hermes_trismegistos.jpg
+File385=images\images\images_smaller\HERMES3.jpg
+File386=images\images\images_smaller\hermES-4.jpg
+File387=images\images\images_smaller\Hesperides.jpg
+File388=images\images\images_smaller\hestia.jpg
+File389=images\images\images_smaller\hexagon_wallpaper_abstract_3d_wallpaper_1600_1200_52.jpg
+File39=images\images\andromedadelacroix.jpg
+File390=images\images\images_smaller\hfaistos3.jpg
+File391=images\images\images_smaller\hfaistos3_b.jpg
+File392=images\images\images_smaller\HippolyteDeinomache.jpg
+File393=images\images\images_smaller\HLYSIA.jpg
+File394=images\images\images_smaller\HMITHEOS.jpg
+File395=images\images\images_smaller\HSAlfeiosOlympia.jpg
+File396=images\images\images_smaller\hydra-2.jpg
+File397=images\images\images_smaller\hyperborea.jpg
+File398=images\images\images_smaller\iapetos.jpg
+File399=images\images\images_smaller\iaso.jpg
+File4=en\manifest.json
+File40=images\images\antaios.jpg
+File400=images\images\images_smaller\icarus.jpg
+File401=images\images\images_smaller\icarus-2.jpg
+File402=images\images\images_smaller\ifigeneia-2.jpg
+File403=images\images\images_smaller\IliasHeroes.jpg
+File404=images\images\images_smaller\INSIDE BACK-GROUNDS\1.jpg
+File405=images\images\images_smaller\INSIDE BACK-GROUNDS\2.jpg
+File406=images\images\images_smaller\INSIDE BACK-GROUNDS\3.jpg
+File407=images\images\images_smaller\INSIDE BACK-GROUNDS\4.jpg
+File408=images\images\images_smaller\INSIDE BACK-GROUNDS\adonis-2.jpg
+File409=images\images\images_smaller\INSIDE BACK-GROUNDS\apollo-2.jpg
+File41=images\images\antigoneoedipuscfjalabeat.jpg
+File410=images\images\images_smaller\INSIDE BACK-GROUNDS\cyclops-2.jpg
+File411=images\images\images_smaller\INSIDE BACK-GROUNDS\promitheas-5.jpg
+File412=images\images\images_smaller\INSIDE BACK-GROUNDS\theogonia3_croped.jpg
+File413=images\images\images_smaller\INSIDE BACK-GROUNDS\zeus-third.jpg
+File414=images\images\images_smaller\iolaos.jpg
+File415=images\images\images_smaller\ioli.jpg
+File416=images\images\images_smaller\Iphigeneia.jpg
+File417=images\images\images_smaller\IRENE.jpg
+File418=images\images\images_smaller\ixthiokeyntayros.JPG
+File419=images\images\images_smaller\ixwr.jpg
+File42=images\images\aphaia2.jpg
+File420=images\images\images_smaller\Jason3.jpg
+File421=images\images\images_smaller\JAson3_B.jpg
+File422=images\images\images_smaller\JasonSchwab.jpg
+File423=images\images\images_smaller\kabeiroi.jpg
+File424=images\images\images_smaller\kadmus.jpg
+File425=images\images\images_smaller\kalliroi.jpg
+File426=images\images\images_smaller\KALliroi3.jpg
+File427=images\images\images_smaller\kallisto.jpg
+File428=images\images\images_smaller\KALLISto3.jpg
+File429=images\images\images_smaller\kalxas.jpg
+File43=images\images\apollo_fws.jpg
+File430=images\images\images_smaller\KAPROS.jpg
+File431=images\images\images_smaller\kassiopeia.jpg
+File432=images\images\images_smaller\kataklysmodeykaliwn.jpg
+File433=images\images\images_smaller\kekropas.jpg
+File434=images\images\images_smaller\kirki.jpg
+File435=images\images\images_smaller\klitaimnistra.jpg
+File436=images\images\images_smaller\klitaimnistra3.jpg
+File437=images\images\images_smaller\kmenuedit.png
+File438=images\images\images_smaller\kopros-aygeia.jpg
+File439=images\images\images_smaller\kroisos.jpg
+File44=images\images\application_icon_64x64.png
+File440=images\images\images_smaller\kronos.jpg
+File441=images\images\images_smaller\laertis.gif
+File442=images\images\images_smaller\lailapa.jpg
+File443=images\images\images_smaller\laistrygones.jpg
+File444=images\images\images_smaller\lakedaimwn.jpg
+File445=images\images\images_smaller\LamiaHDraper.jpg
+File446=images\images\images_smaller\lernaia hydra.jpg
+File447=images\images\images_smaller\LERnaia hydra3.jpg
+File448=images\images\images_smaller\LetoDianaScultori.jpg
+File449=images\images\images_smaller\lida.jpg
+File45=images\images\aquaflowers_background.jpg
+File450=images\images\images_smaller\lion of nemea.jpg
+File451=images\images\images_smaller\LIOn of nemea3.jpg
+File452=images\images\images_smaller\lithi.jpg
+File453=images\images\images_smaller\lwtofagoi.jpg
+File454=images\images\images_smaller\maia-pleiades.jpg
+File455=images\images\images_smaller\mars+venus.jpg
+File456=images\images\images_smaller\mars+venus2.jpg
+File457=images\images\images_smaller\medea-2.jpg
+File458=images\images\images_smaller\medoysa.jpg
+File459=images\images\images_smaller\medusa-2.jpg
+File46=images\images\arethusa.jpg
+File460=images\images\images_smaller\megaira.jpg
+File461=images\images\images_smaller\menelaos-2.jpg
+File462=images\images\images_smaller\MenelausHelen.jpg
+File463=images\images\images_smaller\messini.jpg
+File464=images\images\images_smaller\mhdeia.jpg
+File465=images\images\images_smaller\minotaurus.jpg
+File466=images\images\images_smaller\minotaurus-2.jpg
+File467=images\images\images_smaller\mnemosyne_mother_muses_hi.jpg
+File468=images\images\images_smaller\moires.jpg
+File469=images\images\images_smaller\morfeas.jpg
+File47=images\images\argonauten.jpg
+File470=images\images\images_smaller\moyses.jpg
+File471=images\images\images_smaller\moyses3.jpg
+File472=images\images\images_smaller\mykines.jpg
+File473=images\images\images_smaller\myrmidones.jpg
+File474=images\images\images_smaller\nafsika-2.jpg
+File475=images\images\images_smaller\naiades.jpg
+File476=images\images\images_smaller\narkissos.jpg
+File477=images\images\images_smaller\naysika.jpg
+File478=images\images\images_smaller\naysika-extra.jpg
+File479=images\images\images_smaller\naysika-extra2.jpg
+File48=images\images\argonaytiki.jpg
+File480=images\images\images_smaller\naysika-extra3.jpg
+File481=images\images\images_smaller\nefeli.jpg
+File482=images\images\images_smaller\nemesis.jpg
+File483=images\images\images_smaller\neoptolemos.jpg
+File484=images\images\images_smaller\Nereus.jpg
+File485=images\images\images_smaller\nestor.jpg
+File486=images\images\images_smaller\Niobe.jpg
+File487=images\images\images_smaller\nisoi makarioi.jpg
+File488=images\images\images_smaller\NymphsBougerau.jpg
+File489=images\images\images_smaller\NyxBrygos.jpg
+File49=images\images\argonaytiki3.jpg
+File490=images\images\images_smaller\odisseia.jpg
+File491=images\images\images_smaller\odisseia-2.jpg
+File492=images\images\images_smaller\oidipous.jpg
+File493=images\images\images_smaller\OIDipous3.jpg
+File494=images\images\images_smaller\oionos.gif
+File495=images\images\images_smaller\olympos_small.jpg
+File496=images\images\images_smaller\omiros.jpg
+File497=images\images\images_smaller\orestis.jpg
+File498=images\images\images_smaller\orfeas.jpg
+File499=images\images\images_smaller\orfeas-2.jpg
+File5=en\mythology_data_en.js
+File50=images\images\ariadnefrederickwatts.jpg
+File500=images\images\images_smaller\orion-classic.JPG
+File501=images\images\images_smaller\palladio.jpg
+File502=images\images\images_smaller\panas.jpg
+File503=images\images\images_smaller\PandoraWaterhouse1896.jpg
+File504=images\images\images_smaller\papyrous-icon-64x64.png
+File505=images\images\images_smaller\paris.jpg
+File506=images\images\images_smaller\paris-2.jpg
+File507=images\images\images_smaller\paris3.jpg
+File508=images\images\images_smaller\parthenon.jpg
+File509=images\images\images_smaller\pasifai.jpg
+File51=images\images\aris.jpg
+File510=images\images\images_smaller\patroklos.jpg
+File511=images\images\images_smaller\pegasus.jpg
+File512=images\images\images_smaller\pegasus-2.jpg
+File513=images\images\images_smaller\pelasgos.gif
+File514=images\images\images_smaller\pelopas.jpg
+File515=images\images\images_smaller\penelope.jpg
+File516=images\images\images_smaller\perseas3.jpg
+File517=images\images\images_smaller\perseas3-feature-graphic.jpg
+File518=images\images\images_smaller\persephone.jpg
+File519=images\images\images_smaller\Perseus-and-Medusa-greek-mythology.jpg
+File52=images\images\aris3.jpg
+File520=images\images\images_smaller\Philoctetes.jpg
+File521=images\images\images_smaller\Phoebe.jpg
+File522=images\images\images_smaller\phoebe3.jpg
+File523=images\images\images_smaller\phoenix.jpg
+File524=images\images\images_smaller\ploytos.jpg
+File525=images\images\images_smaller\poseidon_02.jpg
+File526=images\images\images_smaller\poseidoN3.jpg
+File527=images\images\images_smaller\Priamos.jpg
+File528=images\images\images_smaller\Procrustes.jpg
+File529=images\images\images_smaller\prometheus-extra1.jpg
+File53=images\images\artemis.jpg
+File530=images\images\images_smaller\prometheus-extra2.jpg
+File531=images\images\images_smaller\prometheus-extra3.jpg
+File532=images\images\images_smaller\prometheus-extra4.jpg
+File533=images\images\images_smaller\prometheus-extra5.jpg
+File534=images\images\images_smaller\promitheas.jpg
+File535=images\images\images_smaller\promitheas-2.jpg
+File536=images\images\images_smaller\promitheas-3.jpg
+File537=images\images\images_smaller\promitheas-4.jpg
+File538=images\images\images_smaller\promitheas-5.jpg
+File539=images\images\images_smaller\Proteus-Alciato.gif
+File54=images\images\artemis_greek_god.jpg
+File540=images\images\images_smaller\Psychostasia.jpg
+File541=images\images\images_smaller\pyrra-3.jpg
+File542=images\images\images_smaller\RachelMelpomene.jpg
+File543=images\images\images_smaller\RADAMANTHYS.jpg
+File544=images\images\images_smaller\REA.jpg
+File545=images\images\images_smaller\satyroi.jpg
+File546=images\images\images_smaller\screenshot_1.jpg
+File547=images\images\images_smaller\screenshot_perigrafi.png
+File548=images\images\images_smaller\screnshot_colors.png
+File549=images\images\images_smaller\Scylla3.jpg
+File55=images\images\asclepius.jpg
+File550=images\images\images_smaller\Scylla-and-Charybdis.jpg
+File551=images\images\images_smaller\seirines.jpg
+File552=images\images\images_smaller\seirines3.jpg
+File553=images\images\images_smaller\silenus_drunken.jpg
+File554=images\images\images_smaller\sisifos.jpg
+File555=images\images\images_smaller\sphinx.jpg
+File556=images\images\images_smaller\SPhinx3_BIG.jpg
+File557=images\images\images_smaller\styga.jpg
+File558=images\images\images_smaller\stymfalides ornithes.jpg
+File559=images\images\images_smaller\sun-chariot 2.jpg
+File56=images\images\athena_extra.jpg
+File560=images\images\images_smaller\talos.jpg
+File561=images\images\images_smaller\tantalos.jpg
+File562=images\images\images_smaller\terpsixori.jpg
+File563=images\images\images_smaller\text2-icon-128x128.png
+File564=images\images\images_smaller\text-icon-128x128.png
+File565=images\images\images_smaller\Thalia.jpg
+File566=images\images\images_smaller\ThAntaeusPollaiuolo.jpg
+File567=images\images\images_smaller\ThApolloAuroraLairesse.jpg
+File568=images\images\images_smaller\theogonia.jpg
+File569=images\images\images_smaller\theogonia3_croped.jpg
+File57=images\images\athenafr.jpg
+File570=images\images\images_smaller\ThespiusMoraeu.jpg
+File571=images\images\images_smaller\thisbi.jpg
+File572=images\images\images_smaller\thiseas[2].jpg
+File573=images\images\images_smaller\ThisviPyramos.jpg
+File574=images\images\images_smaller\thunder-icon128x128.png
+File575=images\images\images_smaller\ThVenusAdonisCarracaci.jpg
+File576=images\images\images_smaller\tilemaxos.jpg
+File577=images\images\images_smaller\Tiresias.jpg
+File578=images\images\images_smaller\titanomaxia1.jpg
+File579=images\images\images_smaller\titanomaxia2.jpg
+File58=images\images\athloi.png
+File580=images\images\images_smaller\triptolemos.jpg
+File581=images\images\images_smaller\TROYAN HORSE.jpg
+File582=images\images\images_smaller\TROYAN HORSE-2.jpg
+File583=images\images\images_smaller\tyxi.jpg
+File584=images\images\images_smaller\ulusees-extra1.jpg
+File585=images\images\images_smaller\ulusees-extra2.jpg
+File586=images\images\images_smaller\ulusees-extra3.jpg
+File587=images\images\images_smaller\ulusees-extra4.jpg
+File588=images\images\images_smaller\ulysses.jpg
+File589=images\images\images_smaller\ulysses-2.jpg
+File59=images\images\atlas.jpg
+File590=images\images\images_smaller\uranos.jpg
+File591=images\images\images_smaller\VENUS.JPG
+File592=images\images\images_smaller\wgygos.jpg
+File593=images\images\images_smaller\wkeanides.jpg
+File594=images\images\images_smaller\wkeanos.JPG
+File595=images\images\images_smaller\XANTHIPPY.jpg
+File596=images\images\images_smaller\xarites.jpg
+File597=images\images\images_smaller\xarites2.jpg
+File598=images\images\images_smaller\xarivdi.jpg
+File599=images\images\images_smaller\xarwn.jpg
+File6=image_map.js
+File60=images\images\atlasherc01.jpg
+File600=images\images\images_smaller\xarwn-2.jpg
+File601=images\images\images_smaller\xrisida.jpg
+File602=images\images\images_smaller\xthonios.jpg
+File603=images\images\images_smaller\yades.jpg
+File604=images\images\images_smaller\yades3.jpg
+File605=images\images\images_smaller\ygeia.jpg
+File606=images\images\images_smaller\Zagreus2.jpg
+File607=images\images\images_smaller\zefyros.jpg
+File608=images\images\images_smaller\ZephyrusPrimavera.jpg
+File609=images\images\images_smaller\zeus_second.jpg
+File61=images\images\atlasvatican.jpg
+File610=images\images\images_smaller\zeus_splash.jpg
+File611=images\images\images_smaller\zeus-all-gods-small.jpg
+File612=images\images\images_smaller\zeus-fifth.jpg
+File613=images\images\images_smaller\zeus-fourth.jpg
+File614=images\images\images_smaller\Zeus-greek-mythology-2887775-2074-2560.jpg
+File615=images\images\images_smaller\zeus-lessons.jpg
+File616=images\images\images_smaller\zeus-third.jpg
+File617=images\images\iolaos.jpg
+File618=images\images\ioli.jpg
+File619=images\images\iphigeneia.jpg
+File62=images\images\bellerophonproetus.jpg
+File620=images\images\irene.jpg
+File621=images\images\ixthiokeyntayros.jpg
+File622=images\images\ixwr.jpg
+File623=images\images\jason3.jpg
+File624=images\images\jason3_b.jpg
+File625=images\images\jasonschwab.jpg
+File626=images\images\kabeiroi.jpg
+File627=images\images\kadmus.jpg
+File628=images\images\kalliroi.jpg
+File629=images\images\kalliroi3.jpg
+File63=images\images\calypsohermesflaxman.jpg
+File630=images\images\kallisto.jpg
+File631=images\images\kallisto3.jpg
+File632=images\images\kalxas.jpg
+File633=images\images\kalxas3.jpg
+File634=images\images\kapros.jpg
+File635=images\images\kassiopeia.jpg
+File636=images\images\kataklysmodeykaliwn.jpg
+File637=images\images\kekropas.jpg
+File638=images\images\kirki.jpg
+File639=images\images\klitaimnistra.jpg
+File64=images\images\cassandraevelynmorgan.jpg
+File640=images\images\klitaimnistra3.jpg
+File641=images\images\kmenuedit.png
+File642=images\images\kopros_aygeia.jpg
+File643=images\images\kroisos.jpg
+File644=images\images\laertis.gif
+File645=images\images\lailapa.jpg
+File646=images\images\laistrygones.jpg
+File647=images\images\lakedaimwn.jpg
+File648=images\images\lamiahdraper.jpg
+File649=images\images\lernaia_hydra.jpg
+File65=images\images\centaur.jpg
+File650=images\images\lernaia_hydra3.jpg
+File651=images\images\letodianascultori.jpg
+File652=images\images\lida.jpg
+File653=images\images\lion_of_nemea.jpg
+File654=images\images\lion_of_nemea3.jpg
+File655=images\images\lithi.jpg
+File656=images\images\lwtofagoi.png
+File657=images\images\maia_pleiades.jpg
+File658=images\images\mars_venus.jpg
+File659=images\images\mars_venus2.jpg
+File66=images\images\centaur3.jpg
+File660=images\images\medoysa.jpg
+File661=images\images\megaira.jpg
+File662=images\images\menelaushelen.jpg
+File663=images\images\messini.jpg
+File664=images\images\mhdeia.jpg
+File665=images\images\minotaurus.jpg
+File666=images\images\minotaurus3_big.jpg
+File667=images\images\minotaurus3_small.jpg
+File668=images\images\mnemosyne_mother_muses_hi.jpg
+File669=images\images\moires.jpg
+File67=images\images\cerberus.jpg
+File670=images\images\morfeas.jpg
+File671=images\images\moyses.png
+File672=images\images\moyses3.jpg
+File673=images\images\moyses3_b.jpg
+File674=images\images\mykines.jpg
+File675=images\images\myrmidones.jpg
+File676=images\images\naiades.jpg
+File677=images\images\narkissos.jpg
+File678=images\images\naysika.jpg
+File679=images\images\naysika_extra.jpg
+File68=images\images\chaos.png
+File680=images\images\naysika_extra2.jpg
+File681=images\images\naysika_extra3.jpg
+File682=images\images\nefeli.jpg
+File683=images\images\nemesis.jpg
+File684=images\images\neoptolemos.jpg
+File685=images\images\nereus.jpg
+File686=images\images\nestor.jpg
+File687=images\images\niobe.jpg
+File688=images\images\nisoi_makarioi.jpg
+File689=images\images\nymphsbougerau.jpg
+File69=images\images\chimera.jpg
+File690=images\images\nyxbrygos.jpg
+File691=images\images\odisseia.jpg
+File692=images\images\oidipous.jpg
+File693=images\images\oidipous3.jpg
+File694=images\images\oionos.gif
+File695=images\images\olympos.png
+File696=images\images\olympos_small.jpg
+File697=images\images\omiros.jpg
+File698=images\images\orestis.jpg
+File699=images\images\orfeas.jpg
+File7=images\images\05_02_2012_6_13_33.png
+File70=images\images\chimera_2.jpg
+File700=images\images\palladio.jpg
+File701=images\images\panas.jpg
+File702=images\images\pandorawaterhouse1896.jpg
+File703=images\images\papyrous_icon_64x64.png
+File704=images\images\paris.jpg
+File705=images\images\paris3.jpg
+File706=images\images\parthenon.jpg
+File707=images\images\pasifai.jpg
+File708=images\images\patroklos.jpg
+File709=images\images\pegasus.jpg
+File71=images\images\clio1.jpg
+File710=images\images\pelasgos.gif
+File711=images\images\pelopas.jpg
+File712=images\images\penelope.jpg
+File713=images\images\perseas3.jpg
+File714=images\images\persephone.jpg
+File715=images\images\perseus_and_medusa_greek_mythology.jpg
+File716=images\images\philoctetes.jpg
+File717=images\images\phoebe.jpg
+File718=images\images\phoebe3.jpg
+File719=images\images\phoenix.jpg
+File72=images\images\collage.jpg
+File720=images\images\ploytos.jpg
+File721=images\images\poseidon_02.jpg
+File722=images\images\poseidon3.jpg
+File723=images\images\priamos.jpg
+File724=images\images\procrustes.jpg
+File725=images\images\prometh_feature_graphic.jpg
+File726=images\images\prometheus_extra1.jpg
+File727=images\images\prometheus_extra2.jpg
+File728=images\images\prometheus_extra3.jpg
+File729=images\images\prometheus_extra4.jpg
+File73=images\images\collage_2.jpg
+File730=images\images\prometheus_extra5.jpg
+File731=images\images\promitheas.jpg
+File732=images\images\proteus_alciato.gif
+File733=images\images\psychostasia.jpg
+File734=images\images\pyrra_3.jpg
+File735=images\images\rachelmelpomene.jpg
+File736=images\images\radamanthys.jpg
+File737=images\images\rea.jpg
+File738=images\images\satyroi.jpg
+File739=images\images\screenshot_1.jpg
+File74=images\images\collage_project_test.pwp
+File740=images\images\screenshot_1.png
+File741=images\images\screenshot_2_zeus.png
+File742=images\images\screenshot_eikona.png
+File743=images\images\screenshot_perigrafi.png
+File744=images\images\screnshot_colors.png
+File745=images\images\scylla_and_charybdis.jpg
+File746=images\images\scylla3.jpg
+File747=images\images\search_icon_512.png
+File748=images\images\seirines.jpg
+File749=images\images\seirines3.jpg
+File75=images\images\collage-project-test-PM\Page1\background\ANCIENT BACKGROUND 1.jpg
+File750=images\images\silenus_drunken.jpg
+File751=images\images\sisifos.jpg
+File752=images\images\sphinx.jpg
+File753=images\images\sphinx3_big.jpg
+File754=images\images\sphinx3_small.jpg
+File755=images\images\styga.jpg
+File756=images\images\stymfalides_ornithes.png
+File757=images\images\sun_chariot_2.jpg
+File758=images\images\talos.jpg
+File759=images\images\talos3.gif
+File76=images\images\collage-project-test-PM\Page1\photo\afroditi-2.jpg
+File760=images\images\tantalos.png
+File761=images\images\terpsixori.jpg
+File762=images\images\text_icon_128x128.png
+File763=images\images\text2_icon_128x128.png
+File764=images\images\thalia.jpg
+File765=images\images\thantaeuspollaiuolo.jpg
+File766=images\images\thapolloauroralairesse.jpg
+File767=images\images\theogonia.jpg
+File768=images\images\theogonia3.jpg
+File769=images\images\theogonia3_croped.jpg
+File77=images\images\collage-project-test-PM\Page1\photo\DAIDALOS.jpg
+File770=images\images\thespiusmoraeu.jpg
+File771=images\images\thisbi.jpg
+File772=images\images\thiseas_2.jpg
+File773=images\images\thisvipyramos.jpg
+File774=images\images\thunder_icon128x128.png
+File775=images\images\thvenusadoniscarracaci.jpg
+File776=images\images\tilemaxos.jpg
+File777=images\images\tiresias.jpg
+File778=images\images\triptolemos.jpg
+File779=images\images\troyan_horse.jpg
+File78=images\images\collage-project-test-PM\Page1\photo\E.png
+File780=images\images\tyxi.png
+File781=images\images\ulusees_extra1.jpg
+File782=images\images\ulusees_extra2.jpg
+File783=images\images\ulusees_extra3.jpg
+File784=images\images\ulusees_extra4.jpg
+File785=images\images\ulysses.jpg
+File786=images\images\uranos.jpg
+File787=images\images\venus.jpg
+File788=images\images\wgygos.jpg
+File789=images\images\wkeanides.png
+File79=images\images\collage-project-test-PM\Page1\photo\EuropaCoypel.jpg
+File790=images\images\wkeanos.jpg
+File791=images\images\xanthippy.jpg
+File792=images\images\xarites.jpg
+File793=images\images\xarites2.jpg
+File794=images\images\xarivdi.jpg
+File795=images\images\xarwn.jpg
+File796=images\images\xrisida.jpg
+File797=images\images\xthonios.jpg
+File798=images\images\yades.jpg
+File799=images\images\yades3.jpg
+File8=images\images\05_02_2012_6_13_33_1.png
+File80=images\images\collage-project-test-PM\Page1\photo\lakedaimwn.jpg
+File800=images\images\ygeia.jpg
+File801=images\images\zagreus2.jpg
+File802=images\images\zefyros.jpg
+File803=images\images\zephyrusprimavera.jpg
+File804=images\images\zeus_all_gods.jpg
+File805=images\images\zeus_by_varges.jpg
+File806=images\images\zeus_greek_mythology_2887775_2074_2560.jpg
+File807=images\images\zeus_lessons.jpg
+File808=images\images\zeus_painting_hires_1.jpg
+File809=images\images\zeus_painting_hires_1_backup.jpg
+File81=images\images\collage-project-test-PM\Page1\photo\orfeas-2.jpg
+File810=images\images\zeus_splash.jpg
+File811=index.html
+File812=main.bal
+File813=manifest.json
+File814=mythology_data.js
+File82=images\images\collage-project-test-PM\Page1\photo\paris.jpg
+File83=images\images\collage-project-test-PM\Page1\photo\promitheas-5.jpg
+File84=images\images\collage-project-test-PM\Page1\photo\SPhinx3_BIG.jpg
+File85=images\images\collage-project-test-PM\Page1\photo\theogonia3_croped.jpg
+File86=images\images\collage-project-test-PM\Page1\photo\tilemaxos.jpg
+File87=images\images\collage-project-test-PM\Page1\photo\zeus_second.jpg
+File88=images\images\cyclops.jpg
+File89=images\images\daidalos.jpg
+File9=images\images\2nd_3rd_century_ce.jpg
+File90=images\images\danae3.jpg
+File91=images\images\danaehendrickgoltzius.jpg
+File92=images\images\danaidesjanfransdeboever.jpg
+File93=images\images\danaidesjanfransdeboever_1.jpg
+File94=images\images\danaos.jpg
+File95=images\images\daphnelefevre.jpg
+File96=images\images\dardanos_troas.png
+File97=images\images\deathofajax.jpg
+File98=images\images\deimos.png
+File99=images\images\demodocus.jpg
+FileGroup1=Default Group
+FileGroup10=Default Group
+FileGroup100=Default Group
+FileGroup101=Default Group
+FileGroup102=Default Group
+FileGroup103=Default Group
+FileGroup104=Default Group
+FileGroup105=Default Group
+FileGroup106=Default Group
+FileGroup107=Default Group
+FileGroup108=Default Group
+FileGroup109=Default Group
+FileGroup11=Default Group
+FileGroup110=Default Group
+FileGroup111=Default Group
+FileGroup112=Default Group
+FileGroup113=Default Group
+FileGroup114=Default Group
+FileGroup115=Default Group
+FileGroup116=Default Group
+FileGroup117=Default Group
+FileGroup118=Default Group
+FileGroup119=Default Group
+FileGroup12=Default Group
+FileGroup120=Default Group
+FileGroup121=Default Group
+FileGroup122=Default Group
+FileGroup123=Default Group
+FileGroup124=Default Group
+FileGroup125=Default Group
+FileGroup126=Default Group
+FileGroup127=Default Group
+FileGroup128=Default Group
+FileGroup129=Default Group
+FileGroup13=Default Group
+FileGroup130=Default Group
+FileGroup131=Default Group
+FileGroup132=Default Group
+FileGroup133=Default Group
+FileGroup134=Default Group
+FileGroup135=Default Group
+FileGroup136=Default Group
+FileGroup137=Default Group
+FileGroup138=Default Group
+FileGroup139=Default Group
+FileGroup14=Default Group
+FileGroup140=Default Group
+FileGroup141=Default Group
+FileGroup142=Default Group
+FileGroup143=Default Group
+FileGroup144=Default Group
+FileGroup145=Default Group
+FileGroup146=Default Group
+FileGroup147=Default Group
+FileGroup148=Default Group
+FileGroup149=Default Group
+FileGroup15=Default Group
+FileGroup150=Default Group
+FileGroup151=Default Group
+FileGroup152=Default Group
+FileGroup153=Default Group
+FileGroup154=Default Group
+FileGroup155=Default Group
+FileGroup156=Default Group
+FileGroup157=Default Group
+FileGroup158=Default Group
+FileGroup159=Default Group
+FileGroup16=Default Group
+FileGroup160=Default Group
+FileGroup161=Default Group
+FileGroup162=Default Group
+FileGroup163=Default Group
+FileGroup164=Default Group
+FileGroup165=Default Group
+FileGroup166=Default Group
+FileGroup167=Default Group
+FileGroup168=Default Group
+FileGroup169=Default Group
+FileGroup17=Default Group
+FileGroup170=Default Group
+FileGroup171=Default Group
+FileGroup172=Default Group
+FileGroup173=Default Group
+FileGroup174=Default Group
+FileGroup175=Default Group
+FileGroup176=Default Group
+FileGroup177=Default Group
+FileGroup178=Default Group
+FileGroup179=Default Group
+FileGroup18=Default Group
+FileGroup180=Default Group
+FileGroup181=Default Group
+FileGroup182=Default Group
+FileGroup183=Default Group
+FileGroup184=Default Group
+FileGroup185=Default Group
+FileGroup186=Default Group
+FileGroup187=Default Group
+FileGroup188=Default Group
+FileGroup189=Default Group
+FileGroup19=Default Group
+FileGroup190=Default Group
+FileGroup191=Default Group
+FileGroup192=Default Group
+FileGroup193=Default Group
+FileGroup194=Default Group
+FileGroup195=Default Group
+FileGroup196=Default Group
+FileGroup197=Default Group
+FileGroup198=Default Group
+FileGroup199=Default Group
+FileGroup2=Default Group
+FileGroup20=Default Group
+FileGroup200=Default Group
+FileGroup201=Default Group
+FileGroup202=Default Group
+FileGroup203=Default Group
+FileGroup204=Default Group
+FileGroup205=Default Group
+FileGroup206=Default Group
+FileGroup207=Default Group
+FileGroup208=Default Group
+FileGroup209=Default Group
+FileGroup21=Default Group
+FileGroup210=Default Group
+FileGroup211=Default Group
+FileGroup212=Default Group
+FileGroup213=Default Group
+FileGroup214=Default Group
+FileGroup215=Default Group
+FileGroup216=Default Group
+FileGroup217=Default Group
+FileGroup218=Default Group
+FileGroup219=Default Group
+FileGroup22=Default Group
+FileGroup220=Default Group
+FileGroup221=Default Group
+FileGroup222=Default Group
+FileGroup223=Default Group
+FileGroup224=Default Group
+FileGroup225=Default Group
+FileGroup226=Default Group
+FileGroup227=Default Group
+FileGroup228=Default Group
+FileGroup229=Default Group
+FileGroup23=Default Group
+FileGroup230=Default Group
+FileGroup231=Default Group
+FileGroup232=Default Group
+FileGroup233=Default Group
+FileGroup234=Default Group
+FileGroup235=Default Group
+FileGroup236=Default Group
+FileGroup237=Default Group
+FileGroup238=Default Group
+FileGroup239=Default Group
+FileGroup24=Default Group
+FileGroup240=Default Group
+FileGroup241=Default Group
+FileGroup242=Default Group
+FileGroup243=Default Group
+FileGroup244=Default Group
+FileGroup245=Default Group
+FileGroup246=Default Group
+FileGroup247=Default Group
+FileGroup248=Default Group
+FileGroup249=Default Group
+FileGroup25=Default Group
+FileGroup250=Default Group
+FileGroup251=Default Group
+FileGroup252=Default Group
+FileGroup253=Default Group
+FileGroup254=Default Group
+FileGroup255=Default Group
+FileGroup256=Default Group
+FileGroup257=Default Group
+FileGroup258=Default Group
+FileGroup259=Default Group
+FileGroup26=Default Group
+FileGroup260=Default Group
+FileGroup261=Default Group
+FileGroup262=Default Group
+FileGroup263=Default Group
+FileGroup264=Default Group
+FileGroup265=Default Group
+FileGroup266=Default Group
+FileGroup267=Default Group
+FileGroup268=Default Group
+FileGroup269=Default Group
+FileGroup27=Default Group
+FileGroup270=Default Group
+FileGroup271=Default Group
+FileGroup272=Default Group
+FileGroup273=Default Group
+FileGroup274=Default Group
+FileGroup275=Default Group
+FileGroup276=Default Group
+FileGroup277=Default Group
+FileGroup278=Default Group
+FileGroup279=Default Group
+FileGroup28=Default Group
+FileGroup280=Default Group
+FileGroup281=Default Group
+FileGroup282=Default Group
+FileGroup283=Default Group
+FileGroup284=Default Group
+FileGroup285=Default Group
+FileGroup286=Default Group
+FileGroup287=Default Group
+FileGroup288=Default Group
+FileGroup289=Default Group
+FileGroup29=Default Group
+FileGroup290=Default Group
+FileGroup291=Default Group
+FileGroup292=Default Group
+FileGroup293=Default Group
+FileGroup294=Default Group
+FileGroup295=Default Group
+FileGroup296=Default Group
+FileGroup297=Default Group
+FileGroup298=Default Group
+FileGroup299=Default Group
+FileGroup3=Default Group
+FileGroup30=Default Group
+FileGroup300=Default Group
+FileGroup301=Default Group
+FileGroup302=Default Group
+FileGroup303=Default Group
+FileGroup304=Default Group
+FileGroup305=Default Group
+FileGroup306=Default Group
+FileGroup307=Default Group
+FileGroup308=Default Group
+FileGroup309=Default Group
+FileGroup31=Default Group
+FileGroup310=Default Group
+FileGroup311=Default Group
+FileGroup312=Default Group
+FileGroup313=Default Group
+FileGroup314=Default Group
+FileGroup315=Default Group
+FileGroup316=Default Group
+FileGroup317=Default Group
+FileGroup318=Default Group
+FileGroup319=Default Group
+FileGroup32=Default Group
+FileGroup320=Default Group
+FileGroup321=Default Group
+FileGroup322=Default Group
+FileGroup323=Default Group
+FileGroup324=Default Group
+FileGroup325=Default Group
+FileGroup326=Default Group
+FileGroup327=Default Group
+FileGroup328=Default Group
+FileGroup329=Default Group
+FileGroup33=Default Group
+FileGroup330=Default Group
+FileGroup331=Default Group
+FileGroup332=Default Group
+FileGroup333=Default Group
+FileGroup334=Default Group
+FileGroup335=Default Group
+FileGroup336=Default Group
+FileGroup337=Default Group
+FileGroup338=Default Group
+FileGroup339=Default Group
+FileGroup34=Default Group
+FileGroup340=Default Group
+FileGroup341=Default Group
+FileGroup342=Default Group
+FileGroup343=Default Group
+FileGroup344=Default Group
+FileGroup345=Default Group
+FileGroup346=Default Group
+FileGroup347=Default Group
+FileGroup348=Default Group
+FileGroup349=Default Group
+FileGroup35=Default Group
+FileGroup350=Default Group
+FileGroup351=Default Group
+FileGroup352=Default Group
+FileGroup353=Default Group
+FileGroup354=Default Group
+FileGroup355=Default Group
+FileGroup356=Default Group
+FileGroup357=Default Group
+FileGroup358=Default Group
+FileGroup359=Default Group
+FileGroup36=Default Group
+FileGroup360=Default Group
+FileGroup361=Default Group
+FileGroup362=Default Group
+FileGroup363=Default Group
+FileGroup364=Default Group
+FileGroup365=Default Group
+FileGroup366=Default Group
+FileGroup367=Default Group
+FileGroup368=Default Group
+FileGroup369=Default Group
+FileGroup37=Default Group
+FileGroup370=Default Group
+FileGroup371=Default Group
+FileGroup372=Default Group
+FileGroup373=Default Group
+FileGroup374=Default Group
+FileGroup375=Default Group
+FileGroup376=Default Group
+FileGroup377=Default Group
+FileGroup378=Default Group
+FileGroup379=Default Group
+FileGroup38=Default Group
+FileGroup380=Default Group
+FileGroup381=Default Group
+FileGroup382=Default Group
+FileGroup383=Default Group
+FileGroup384=Default Group
+FileGroup385=Default Group
+FileGroup386=Default Group
+FileGroup387=Default Group
+FileGroup388=Default Group
+FileGroup389=Default Group
+FileGroup39=Default Group
+FileGroup390=Default Group
+FileGroup391=Default Group
+FileGroup392=Default Group
+FileGroup393=Default Group
+FileGroup394=Default Group
+FileGroup395=Default Group
+FileGroup396=Default Group
+FileGroup397=Default Group
+FileGroup398=Default Group
+FileGroup399=Default Group
+FileGroup4=Default Group
+FileGroup40=Default Group
+FileGroup400=Default Group
+FileGroup401=Default Group
+FileGroup402=Default Group
+FileGroup403=Default Group
+FileGroup404=Default Group
+FileGroup405=Default Group
+FileGroup406=Default Group
+FileGroup407=Default Group
+FileGroup408=Default Group
+FileGroup409=Default Group
+FileGroup41=Default Group
+FileGroup410=Default Group
+FileGroup411=Default Group
+FileGroup412=Default Group
+FileGroup413=Default Group
+FileGroup414=Default Group
+FileGroup415=Default Group
+FileGroup416=Default Group
+FileGroup417=Default Group
+FileGroup418=Default Group
+FileGroup419=Default Group
+FileGroup42=Default Group
+FileGroup420=Default Group
+FileGroup421=Default Group
+FileGroup422=Default Group
+FileGroup423=Default Group
+FileGroup424=Default Group
+FileGroup425=Default Group
+FileGroup426=Default Group
+FileGroup427=Default Group
+FileGroup428=Default Group
+FileGroup429=Default Group
+FileGroup43=Default Group
+FileGroup430=Default Group
+FileGroup431=Default Group
+FileGroup432=Default Group
+FileGroup433=Default Group
+FileGroup434=Default Group
+FileGroup435=Default Group
+FileGroup436=Default Group
+FileGroup437=Default Group
+FileGroup438=Default Group
+FileGroup439=Default Group
+FileGroup44=Default Group
+FileGroup440=Default Group
+FileGroup441=Default Group
+FileGroup442=Default Group
+FileGroup443=Default Group
+FileGroup444=Default Group
+FileGroup445=Default Group
+FileGroup446=Default Group
+FileGroup447=Default Group
+FileGroup448=Default Group
+FileGroup449=Default Group
+FileGroup45=Default Group
+FileGroup450=Default Group
+FileGroup451=Default Group
+FileGroup452=Default Group
+FileGroup453=Default Group
+FileGroup454=Default Group
+FileGroup455=Default Group
+FileGroup456=Default Group
+FileGroup457=Default Group
+FileGroup458=Default Group
+FileGroup459=Default Group
+FileGroup46=Default Group
+FileGroup460=Default Group
+FileGroup461=Default Group
+FileGroup462=Default Group
+FileGroup463=Default Group
+FileGroup464=Default Group
+FileGroup465=Default Group
+FileGroup466=Default Group
+FileGroup467=Default Group
+FileGroup468=Default Group
+FileGroup469=Default Group
+FileGroup47=Default Group
+FileGroup470=Default Group
+FileGroup471=Default Group
+FileGroup472=Default Group
+FileGroup473=Default Group
+FileGroup474=Default Group
+FileGroup475=Default Group
+FileGroup476=Default Group
+FileGroup477=Default Group
+FileGroup478=Default Group
+FileGroup479=Default Group
+FileGroup48=Default Group
+FileGroup480=Default Group
+FileGroup481=Default Group
+FileGroup482=Default Group
+FileGroup483=Default Group
+FileGroup484=Default Group
+FileGroup485=Default Group
+FileGroup486=Default Group
+FileGroup487=Default Group
+FileGroup488=Default Group
+FileGroup489=Default Group
+FileGroup49=Default Group
+FileGroup490=Default Group
+FileGroup491=Default Group
+FileGroup492=Default Group
+FileGroup493=Default Group
+FileGroup494=Default Group
+FileGroup495=Default Group
+FileGroup496=Default Group
+FileGroup497=Default Group
+FileGroup498=Default Group
+FileGroup499=Default Group
+FileGroup5=Default Group
+FileGroup50=Default Group
+FileGroup500=Default Group
+FileGroup501=Default Group
+FileGroup502=Default Group
+FileGroup503=Default Group
+FileGroup504=Default Group
+FileGroup505=Default Group
+FileGroup506=Default Group
+FileGroup507=Default Group
+FileGroup508=Default Group
+FileGroup509=Default Group
+FileGroup51=Default Group
+FileGroup510=Default Group
+FileGroup511=Default Group
+FileGroup512=Default Group
+FileGroup513=Default Group
+FileGroup514=Default Group
+FileGroup515=Default Group
+FileGroup516=Default Group
+FileGroup517=Default Group
+FileGroup518=Default Group
+FileGroup519=Default Group
+FileGroup52=Default Group
+FileGroup520=Default Group
+FileGroup521=Default Group
+FileGroup522=Default Group
+FileGroup523=Default Group
+FileGroup524=Default Group
+FileGroup525=Default Group
+FileGroup526=Default Group
+FileGroup527=Default Group
+FileGroup528=Default Group
+FileGroup529=Default Group
+FileGroup53=Default Group
+FileGroup530=Default Group
+FileGroup531=Default Group
+FileGroup532=Default Group
+FileGroup533=Default Group
+FileGroup534=Default Group
+FileGroup535=Default Group
+FileGroup536=Default Group
+FileGroup537=Default Group
+FileGroup538=Default Group
+FileGroup539=Default Group
+FileGroup54=Default Group
+FileGroup540=Default Group
+FileGroup541=Default Group
+FileGroup542=Default Group
+FileGroup543=Default Group
+FileGroup544=Default Group
+FileGroup545=Default Group
+FileGroup546=Default Group
+FileGroup547=Default Group
+FileGroup548=Default Group
+FileGroup549=Default Group
+FileGroup55=Default Group
+FileGroup550=Default Group
+FileGroup551=Default Group
+FileGroup552=Default Group
+FileGroup553=Default Group
+FileGroup554=Default Group
+FileGroup555=Default Group
+FileGroup556=Default Group
+FileGroup557=Default Group
+FileGroup558=Default Group
+FileGroup559=Default Group
+FileGroup56=Default Group
+FileGroup560=Default Group
+FileGroup561=Default Group
+FileGroup562=Default Group
+FileGroup563=Default Group
+FileGroup564=Default Group
+FileGroup565=Default Group
+FileGroup566=Default Group
+FileGroup567=Default Group
+FileGroup568=Default Group
+FileGroup569=Default Group
+FileGroup57=Default Group
+FileGroup570=Default Group
+FileGroup571=Default Group
+FileGroup572=Default Group
+FileGroup573=Default Group
+FileGroup574=Default Group
+FileGroup575=Default Group
+FileGroup576=Default Group
+FileGroup577=Default Group
+FileGroup578=Default Group
+FileGroup579=Default Group
+FileGroup58=Default Group
+FileGroup580=Default Group
+FileGroup581=Default Group
+FileGroup582=Default Group
+FileGroup583=Default Group
+FileGroup584=Default Group
+FileGroup585=Default Group
+FileGroup586=Default Group
+FileGroup587=Default Group
+FileGroup588=Default Group
+FileGroup589=Default Group
+FileGroup59=Default Group
+FileGroup590=Default Group
+FileGroup591=Default Group
+FileGroup592=Default Group
+FileGroup593=Default Group
+FileGroup594=Default Group
+FileGroup595=Default Group
+FileGroup596=Default Group
+FileGroup597=Default Group
+FileGroup598=Default Group
+FileGroup599=Default Group
+FileGroup6=Default Group
+FileGroup60=Default Group
+FileGroup600=Default Group
+FileGroup601=Default Group
+FileGroup602=Default Group
+FileGroup603=Default Group
+FileGroup604=Default Group
+FileGroup605=Default Group
+FileGroup606=Default Group
+FileGroup607=Default Group
+FileGroup608=Default Group
+FileGroup609=Default Group
+FileGroup61=Default Group
+FileGroup610=Default Group
+FileGroup611=Default Group
+FileGroup612=Default Group
+FileGroup613=Default Group
+FileGroup614=Default Group
+FileGroup615=Default Group
+FileGroup616=Default Group
+FileGroup617=Default Group
+FileGroup618=Default Group
+FileGroup619=Default Group
+FileGroup62=Default Group
+FileGroup620=Default Group
+FileGroup621=Default Group
+FileGroup622=Default Group
+FileGroup623=Default Group
+FileGroup624=Default Group
+FileGroup625=Default Group
+FileGroup626=Default Group
+FileGroup627=Default Group
+FileGroup628=Default Group
+FileGroup629=Default Group
+FileGroup63=Default Group
+FileGroup630=Default Group
+FileGroup631=Default Group
+FileGroup632=Default Group
+FileGroup633=Default Group
+FileGroup634=Default Group
+FileGroup635=Default Group
+FileGroup636=Default Group
+FileGroup637=Default Group
+FileGroup638=Default Group
+FileGroup639=Default Group
+FileGroup64=Default Group
+FileGroup640=Default Group
+FileGroup641=Default Group
+FileGroup642=Default Group
+FileGroup643=Default Group
+FileGroup644=Default Group
+FileGroup645=Default Group
+FileGroup646=Default Group
+FileGroup647=Default Group
+FileGroup648=Default Group
+FileGroup649=Default Group
+FileGroup65=Default Group
+FileGroup650=Default Group
+FileGroup651=Default Group
+FileGroup652=Default Group
+FileGroup653=Default Group
+FileGroup654=Default Group
+FileGroup655=Default Group
+FileGroup656=Default Group
+FileGroup657=Default Group
+FileGroup658=Default Group
+FileGroup659=Default Group
+FileGroup66=Default Group
+FileGroup660=Default Group
+FileGroup661=Default Group
+FileGroup662=Default Group
+FileGroup663=Default Group
+FileGroup664=Default Group
+FileGroup665=Default Group
+FileGroup666=Default Group
+FileGroup667=Default Group
+FileGroup668=Default Group
+FileGroup669=Default Group
+FileGroup67=Default Group
+FileGroup670=Default Group
+FileGroup671=Default Group
+FileGroup672=Default Group
+FileGroup673=Default Group
+FileGroup674=Default Group
+FileGroup675=Default Group
+FileGroup676=Default Group
+FileGroup677=Default Group
+FileGroup678=Default Group
+FileGroup679=Default Group
+FileGroup68=Default Group
+FileGroup680=Default Group
+FileGroup681=Default Group
+FileGroup682=Default Group
+FileGroup683=Default Group
+FileGroup684=Default Group
+FileGroup685=Default Group
+FileGroup686=Default Group
+FileGroup687=Default Group
+FileGroup688=Default Group
+FileGroup689=Default Group
+FileGroup69=Default Group
+FileGroup690=Default Group
+FileGroup691=Default Group
+FileGroup692=Default Group
+FileGroup693=Default Group
+FileGroup694=Default Group
+FileGroup695=Default Group
+FileGroup696=Default Group
+FileGroup697=Default Group
+FileGroup698=Default Group
+FileGroup699=Default Group
+FileGroup7=Default Group
+FileGroup70=Default Group
+FileGroup700=Default Group
+FileGroup701=Default Group
+FileGroup702=Default Group
+FileGroup703=Default Group
+FileGroup704=Default Group
+FileGroup705=Default Group
+FileGroup706=Default Group
+FileGroup707=Default Group
+FileGroup708=Default Group
+FileGroup709=Default Group
+FileGroup71=Default Group
+FileGroup710=Default Group
+FileGroup711=Default Group
+FileGroup712=Default Group
+FileGroup713=Default Group
+FileGroup714=Default Group
+FileGroup715=Default Group
+FileGroup716=Default Group
+FileGroup717=Default Group
+FileGroup718=Default Group
+FileGroup719=Default Group
+FileGroup72=Default Group
+FileGroup720=Default Group
+FileGroup721=Default Group
+FileGroup722=Default Group
+FileGroup723=Default Group
+FileGroup724=Default Group
+FileGroup725=Default Group
+FileGroup726=Default Group
+FileGroup727=Default Group
+FileGroup728=Default Group
+FileGroup729=Default Group
+FileGroup73=Default Group
+FileGroup730=Default Group
+FileGroup731=Default Group
+FileGroup732=Default Group
+FileGroup733=Default Group
+FileGroup734=Default Group
+FileGroup735=Default Group
+FileGroup736=Default Group
+FileGroup737=Default Group
+FileGroup738=Default Group
+FileGroup739=Default Group
+FileGroup74=Default Group
+FileGroup740=Default Group
+FileGroup741=Default Group
+FileGroup742=Default Group
+FileGroup743=Default Group
+FileGroup744=Default Group
+FileGroup745=Default Group
+FileGroup746=Default Group
+FileGroup747=Default Group
+FileGroup748=Default Group
+FileGroup749=Default Group
+FileGroup75=Default Group
+FileGroup750=Default Group
+FileGroup751=Default Group
+FileGroup752=Default Group
+FileGroup753=Default Group
+FileGroup754=Default Group
+FileGroup755=Default Group
+FileGroup756=Default Group
+FileGroup757=Default Group
+FileGroup758=Default Group
+FileGroup759=Default Group
+FileGroup76=Default Group
+FileGroup760=Default Group
+FileGroup761=Default Group
+FileGroup762=Default Group
+FileGroup763=Default Group
+FileGroup764=Default Group
+FileGroup765=Default Group
+FileGroup766=Default Group
+FileGroup767=Default Group
+FileGroup768=Default Group
+FileGroup769=Default Group
+FileGroup77=Default Group
+FileGroup770=Default Group
+FileGroup771=Default Group
+FileGroup772=Default Group
+FileGroup773=Default Group
+FileGroup774=Default Group
+FileGroup775=Default Group
+FileGroup776=Default Group
+FileGroup777=Default Group
+FileGroup778=Default Group
+FileGroup779=Default Group
+FileGroup78=Default Group
+FileGroup780=Default Group
+FileGroup781=Default Group
+FileGroup782=Default Group
+FileGroup783=Default Group
+FileGroup784=Default Group
+FileGroup785=Default Group
+FileGroup786=Default Group
+FileGroup787=Default Group
+FileGroup788=Default Group
+FileGroup789=Default Group
+FileGroup79=Default Group
+FileGroup790=Default Group
+FileGroup791=Default Group
+FileGroup792=Default Group
+FileGroup793=Default Group
+FileGroup794=Default Group
+FileGroup795=Default Group
+FileGroup796=Default Group
+FileGroup797=Default Group
+FileGroup798=Default Group
+FileGroup799=Default Group
+FileGroup8=Default Group
+FileGroup80=Default Group
+FileGroup800=Default Group
+FileGroup801=Default Group
+FileGroup802=Default Group
+FileGroup803=Default Group
+FileGroup804=Default Group
+FileGroup805=Default Group
+FileGroup806=Default Group
+FileGroup807=Default Group
+FileGroup808=Default Group
+FileGroup809=Default Group
+FileGroup81=Default Group
+FileGroup810=Default Group
+FileGroup811=Default Group
+FileGroup812=Default Group
+FileGroup813=Default Group
+FileGroup814=Default Group
+FileGroup82=Default Group
+FileGroup83=Default Group
+FileGroup84=Default Group
+FileGroup85=Default Group
+FileGroup86=Default Group
+FileGroup87=Default Group
+FileGroup88=Default Group
+FileGroup89=Default Group
+FileGroup9=Default Group
+FileGroup90=Default Group
+FileGroup91=Default Group
+FileGroup92=Default Group
+FileGroup93=Default Group
+FileGroup94=Default Group
+FileGroup95=Default Group
+FileGroup96=Default Group
+FileGroup97=Default Group
+FileGroup98=Default Group
+FileGroup99=Default Group
+Group=Default Group
+Library1=core
+Library2=javaobject
+Library3=json
+Library4=xui
+Library5=xui views
+ManifestCode='This code will be applied to the manifest file during compilation.~\n~'You do not need to modify it in most cases.~\n~'See this link for for more information: https://www.b4x.com/forum/showthread.php?p=78136~\n~AddManifestText(~\n~<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="34"/>~\n~<supports-screens android:largeScreens="true" ~\n~    android:normalScreens="true" ~\n~    android:smallScreens="true" ~\n~    android:anyDensity="true"/>)~\n~SetApplicationAttribute(android:icon, "@drawable/icon")~\n~SetApplicationAttribute(android:label, "$LABEL$")~\n~SetApplicationAttribute(android:theme, "@android:style/Theme.NoTitleBar.Fullscreen")~\n~'End of default text.~\n~
+Module1=Starter
+NumberOfFiles=814
+NumberOfLibraries=5
+NumberOfModules=1
+Version=13.4
+@EndOfDesignText@
+#Region  Project Attributes
+	#ApplicationLabel: Ελληνική Μυθολογία
+	#VersionCode: 1
+	#VersionName: 1.0
+	#SupportedOrientations: portrait
+	#CanInstallToExternalStorage: False
+	#BridgeLogger:True
+#End Region
+
+#Region  Activity Attributes
+	#FullScreen: True
+	#IncludeTitle: False
+#End Region
+
+Sub Process_Globals
+	' These global variables will be redeclared each time the process is created.
+	' These variables can only be accessed from this module.
+	Private xui As XUI
+	Public MythologyData As List
+	Public ImageMap As Map
+	Public CurrentLanguage As String = "el" 
+	Private MainUIReady As Boolean = False ' Flag to prevent event race conditions
+End Sub
+
+Sub Globals
+	' These varibles will be redeclared each time the activity is created.
+	' These variables can only be accessed from this module.
+	Private svEntries As ScrollView
+	Private pnlMain As B4XView
+	Private txtSearch As B4XView 
+	
+	' Detail View Components
+	Private pnlDetail As B4XView
+	Private lblDetailName As B4XView
+	Private lblDetailDesc As B4XView ' This will be a Label inside a ScrollView or just a Label
+	Private svDetail As ScrollView
+	Private svDetail As ScrollView
+	Private btnBack As B4XView
+	Private lblLang As B4XView ' Global reference for language toggle
+	Private pnlSplash As B4XView ' Premium splash screen
+End Sub
+
+Sub Activity_Create(FirstTime As Boolean)
+	Log("Activity_Create Start")
+	MainUIReady = False
+	
+	' 1. Start with a clean slate
+	Activity.RemoveAllViews
+	Activity.Color = 0xFF111128 
+	
+	' 2. Create Premium Splash Screen
+	CreateSplashScreen
+	
+	' 3. Load Data in background (FirstTime)
+	If FirstTime Then
+		LoadData
+	End If
+	
+	' 4. Create Main UI in the background
+	' ScrollView (Main List)
+	Dim sv As ScrollView : sv.Initialize(0)
+	svEntries = sv
+	Activity.AddView(svEntries, 0, 60dip, 100%x, 100%y - 60dip)
+	svEntries.Visible = False ' Hide until splash ends
+	
+	' Header Panel
+	Dim pHeader As Panel : pHeader.Initialize("")
+	Dim bHeader As B4XView = pHeader
+	Activity.AddView(bHeader, 0, 0, 100%x, 60dip)
+	bHeader.Color = 0xFF242445
+	bHeader.Visible = False
+	
+	' Search Bar
+	Dim et As EditText : et.Initialize("txtSearch")
+	et.Hint = "Search myths..."
+	et.HintColor = 0xFFA89878
+	et.TextColor = xui.Color_White
+	et.TextSize = 16
+	et.Color = 0xFF1A1A35 
+	txtSearch = et
+	Dim bET As B4XView = et
+	bET.SetTextAlignment("CENTER", "LEFT")
+	bHeader.AddView(txtSearch, 10dip, 5dip, 100%x - 80dip, 50dip)
+	
+	' Language Toggle
+	Dim lLang As Label : lLang.Initialize("lblLang")
+	lblLang = lLang
+	lblLang.Text = "EL"
+	lblLang.TextColor = 0xFFEDD060
+	lblLang.TextSize = 18
+	lblLang.Font = xui.CreateDefaultBoldFont(18)
+	lblLang.SetTextAlignment("CENTER", "CENTER")
+	lblLang.Color = 0xFF1A1A35
+	bHeader.AddView(lblLang, 100%x - 65dip, 5dip, 55dip, 50dip)
+	
+	' 5. Initialize Detail View Panel
+	CreateDetailPanel
+	
+	' 6. Finalize setup after splash
+	MainUIReady = True
+	FillList("") 
+	
+	' 7. Splash Transition
+	Sleep(2500) ' Let user enjoy the splash
+	pnlSplash.SetLayoutAnimated(500, -100%x, 0, 100%x, 100%y) ' Slide out
+	svEntries.Visible = True
+	bHeader.Visible = True
+	lblLang.BringToFront
+End Sub
+
+Sub CreateSplashScreen
+	pnlSplash = xui.CreatePanel("")
+	pnlSplash.Color = 0xFF111128
+	Activity.AddView(pnlSplash, 0, 0, 100%x, 100%y)
+	
+	' Splash Icon/Logo Placeholder
+	Dim lblIcon As Label : lblIcon.Initialize("")
+	Dim bIcon As B4XView = lblIcon
+	bIcon.Text = "🏛️"
+	bIcon.TextSize = 80
+	bIcon.SetTextAlignment("CENTER", "CENTER")
+	pnlSplash.AddView(bIcon, 0, 30%y, 100%x, 100dip)
+	
+	' Title
+	Dim lblTitle As Label : lblTitle.Initialize("")
+	Dim bTitle As B4XView = lblTitle
+	bTitle.Text = "NEW MYTHOLOGY"
+	bTitle.TextColor = 0xFFEDD060
+	bTitle.TextSize = 28
+	bTitle.Font = xui.CreateDefaultBoldFont(28)
+	bTitle.SetTextAlignment("CENTER", "CENTER")
+	pnlSplash.AddView(bTitle, 0, 45%y, 100%x, 40dip)
+	
+	' Loading message
+	Dim lblLoad As Label : lblLoad.Initialize("")
+	Dim bLoad As B4XView = lblLoad
+	bLoad.Text = "Loading myths..."
+	bLoad.TextColor = 0xFFA89878
+	bLoad.TextSize = 14
+	bLoad.SetTextAlignment("CENTER", "CENTER")
+	pnlSplash.AddView(bLoad, 0, 80%y, 100%x, 30dip)
+End Sub
+
+Public Sub lblLang_Click
+	Log("Language Clicked")
+	If CurrentLanguage = "el" Then
+		CurrentLanguage = "en"
+		lblLang.Text = "EN"
+	Else
+		CurrentLanguage = "el"
+		lblLang.Text = "EL"
+	End If
+	
+	FillList(txtSearch.Text)
+End Sub
+
+Sub CreateDetailPanel
+	pnlDetail = xui.CreatePanel("pnlDetail")
+	pnlDetail.Color = 0xFF111128
+	pnlDetail.Visible = False
+	Activity.AddView(pnlDetail, 0, 0, 100%x, 100%y)
+	
+	' Header / Back Row
+	Dim pnlH As Panel : pnlH.Initialize("")
+	Dim bH As B4XView = pnlH
+	pnlDetail.AddView(bH, 0, 0, 100%x, 60dip)
+	bH.Color = 0xFF242445
+	
+	Dim pnlB As Panel : pnlB.Initialize("btnBack")
+	btnBack = pnlB
+	bH.AddView(btnBack, 5dip, 5dip, 50dip, 50dip)
+	
+	Dim lBack As Label : lBack.Initialize("btnBack")
+	Dim bBack As B4XView = lBack
+	bBack.Text = "<"
+	bBack.TextColor = xui.Color_White
+	bBack.TextSize = 24
+	bBack.SetTextAlignment("CENTER", "CENTER")
+	btnBack.AddView(bBack, 0, 0, 50dip, 50dip)
+	
+	Dim lName As Label : lName.Initialize("")
+	lblDetailName = lName
+	lblDetailName.TextColor = 0xFFEDD060
+	lblDetailName.TextSize = 20
+	lblDetailName.Font = xui.CreateDefaultBoldFont(20)
+	bH.AddView(lblDetailName, 60dip, 10dip, 100%x - 70dip, 40dip)
+	
+	' Content area
+	Dim sv As ScrollView : sv.Initialize(1000dip)
+	svDetail = sv
+	pnlDetail.AddView(svDetail, 0, 60dip, 100%x, 100%y - 60dip)
+End Sub
+
+Sub btnBack_Click
+	pnlDetail.Visible = False
+End Sub
+
+Sub LoadData
+	Try
+		' 1. Load Image Map
+		Dim sMap As String = File.ReadString(File.DirAssets, "image_map.js")
+		sMap = CleanJS(sMap, "ENTRY_IMAGES")
+		Dim jp As JSONParser
+		jp.Initialize(sMap)
+		ImageMap = jp.NextObject
+		Log("Loaded " & ImageMap.Size & " image mappings.")
+		
+		' 2. Load Mythology Data
+		Dim sData As String = File.ReadString(File.DirAssets, "mythology_data.js")
+		sData = CleanJS(sData, "MYTHOLOGY_DATA")
+		jp.Initialize(sData)
+		MythologyData = jp.NextArray
+		Log("Loaded " & MythologyData.Size & " mythology entries.")
+		
+	Catch
+		Log("LoadData Error: " & LastException.Message)
+		MsgboxAsync("Error loading data: " & LastException.Message, "Error")
+	End Try
+End Sub
+
+' Helper to strip JS variable declaration and trailing semicolon
+Sub CleanJS(Content As String, VarName As String) As String
+	' Robustly find the start of JSON ([ for array, { for object)
+	Dim idx1 As Int = Content.IndexOf("[")
+	Dim idx2 As Int = Content.IndexOf("{")
+	
+	Dim startIdx As Int = -1
+	If idx1 > -1 And idx2 > -1 Then
+		startIdx = Min(idx1, idx2)
+	Else If idx1 > -1 Then
+		startIdx = idx1
+	Else
+		startIdx = idx2
+	End If
+	
+	If startIdx > -1 Then
+		Content = Content.SubString(startIdx)
+	End If
+	
+	' Trim trailing semicolon if exists
+	Content = Content.Trim
+	If Content.EndsWith(";") Then
+		Content = Content.SubString2(0, Content.Length - 1)
+	End If
+	Return Content
+End Sub
+
+Sub FillList(Query As String)
+	If MainUIReady = False Then Return
+	svEntries.Panel.RemoveAllViews
+	Dim curY As Int = 0
+	Dim itemHeight As Int = 90dip
+	Query = Query.ToLowerCase
+	
+	For Each entry As Map In MythologyData
+		Dim name As String = entry.Get("name")
+		Dim desc As String = entry.Get("description")
+		
+		If Query = "" Or name.ToLowerCase.Contains(Query) Or desc.ToLowerCase.Contains(Query) Then
+			Dim p As B4XView = CreateItem(entry, svEntries.Width, itemHeight)
+			svEntries.Panel.AddView(p, 0, curY, svEntries.Width, itemHeight)
+			curY = curY + itemHeight
+		End If
+	Next
+	svEntries.Panel.Height = curY
+End Sub
+
+Sub pnlItem_Click
+	Dim pnl As B4XView = Sender
+	ShowDetail(pnl.Tag)
+End Sub
+
+Sub CreateItem(Entry As Map, Width As Int, Height As Int) As B4XView
+	Dim p As Panel : p.Initialize("pnlItem")
+	Dim bP As B4XView = p
+	bP.Tag = Entry
+	bP.SetLayoutAnimated(0, 0, 0, Width, Height)
+	
+	' Background
+	Dim pBg As Panel : pBg.Initialize("pnlItem")
+	Dim bBg As B4XView = pBg
+	bBg.Tag = Entry
+	bP.AddView(bBg, 2dip, 2dip, Width - 4dip, Height - 4dip)
+	bBg.Color = 0xFF1A1A35
+	' pBg.SetColorAndBorder(0xFF1A1A35, 1dip, 0xFF333355, 5dip) ' Not all XUI versions support this directly
+	
+	' Thumbnail
+	Dim pnlImg As B4XView = xui.CreatePanel("")
+	pBg.AddView(pnlImg, 8dip, 8dip, 74dip, 74dip)
+	pnlImg.Color = 0xFF242445
+	
+	Dim id As String = Entry.Get("id")
+	If ImageMap.ContainsKey(id) Then
+		Dim imgs As List = ImageMap.Get(id)
+		If imgs.Size > 0 Then
+			Try
+				Dim imgName As String = imgs.Get(0)
+				Dim bmp As B4XBitmap = xui.LoadBitmapResize(File.DirAssets, "images/images/" & imgName, 74dip, 74dip, True)
+				Dim iv As ImageView : iv.Initialize("")
+				Dim biv As B4XView = iv
+				biv.SetBitmap(bmp)
+				pnlImg.AddView(biv, 0, 0, 74dip, 74dip)
+			Catch
+				Log("Image Load Fail: " & imgs.Get(0))
+			End Try
+		End If
+	End If
+	
+	' Name
+	Dim lblName As Label : lblName.Initialize("")
+	Dim bName As B4XView = lblName
+	bName.TextColor = 0xFFEDD060
+	bName.TextSize = 18
+	bName.Font = xui.CreateDefaultBoldFont(18)
+	bName.Text = Entry.Get("name")
+	pBg.AddView(bName, 90dip, 10dip, Width - 100dip, 30dip)
+	
+	' Description Preview (multiline)
+	Dim lblDesc As Label : lblDesc.Initialize("")
+	Dim bDesc As B4XView = lblDesc
+	bDesc.TextColor = 0xFFA89878
+	bDesc.TextSize = 13
+	Dim dText As String = Entry.Get("description")
+	If dText.Length > 100 Then dText = dText.SubString2(0, 100).Replace(CRLF, " ") & "..."
+	bDesc.Text = dText
+	pBg.AddView(bDesc, 90dip, 40dip, Width - 100dip, 40dip)
+	
+	Return p
+End Sub
+
+Sub txtSearch_TextChanged (Old As String, New As String)
+	FillList(New)
+End Sub
+
+Sub ShowDetail(Entry As Map)
+	pnlDetail.Visible = True
+	pnlDetail.BringToFront
+	pnlDetail.SetLayoutAnimated(300, 0, 0, 100%x, 100%y) ' Slide in effect
+	
+	lblDetailName.Text = Entry.Get("name")
+	
+	' Clear ScrollView
+	svDetail.Panel.RemoveAllViews
+	
+	Dim curY As Int = 15dip
+	
+	' 1. Image Gallery (Horizontal Scroll)
+	Dim id As String = Entry.Get("id")
+	If ImageMap.ContainsKey(id) Then
+		Dim imgs As List = ImageMap.Get(id)
+		If imgs.Size > 0 Then
+			' Horizontal Scroll for Images
+			Dim hsv As HorizontalScrollView : hsv.Initialize(0, "")
+			svDetail.Panel.AddView(hsv, 0, curY, 100%x, 240dip)
+			
+			Dim curX As Int = 15dip
+			for each imgName as String in imgs
+				Dim pnlImg As B4XView = xui.CreatePanel("")
+				hsv.Panel.AddView(pnlImg, curX, 10dip, 300dip, 200dip)
+				pnlImg.Color = 0xFF242445
+				
+				Try
+					Dim bmp As B4XBitmap = xui.LoadBitmapResize(File.DirAssets, "images/images/" & imgName, 300dip, 200dip, True)
+					Dim iv As ImageView : iv.Initialize("")
+					Dim biv As B4XView = iv
+					biv.SetBitmap(bmp)
+					pnlImg.AddView(biv, 0, 0, 300dip, 200dip)
+					curX = curX + 315dip
+				Catch
+					Log("Detail Image Load Fail: " & imgName)
+				End Try
+			Next
+			hsv.Panel.Width = curX + 15dip
+			curY = curY + 240dip
+		End If
+	End If
+	
+	' 2. Description Header
+	Dim lblHeader As Label : lblHeader.Initialize("")
+	Dim bHeader As B4XView = lblHeader
+	bHeader.Text = "ΠΕΡΙΓΡΑΦΗ" ' Description in Greek
+	bHeader.TextColor = 0xFFA89878
+	bHeader.TextSize = 14
+	bHeader.Font = xui.CreateDefaultBoldFont(14)
+	svDetail.Panel.AddView(bHeader, 15dip, curY, 100%x - 30dip, 30dip)
+	curY = curY + 35dip
+	
+	' 3. Description Content
+	Dim lblDesc As Label : lblDesc.Initialize("")
+	Dim bDesc As B4XView = lblDesc
+	bDesc.TextColor = xui.Color_LightGray
+	bDesc.TextSize = 17
+	Dim fullText As String = Entry.Get("description")
+	bDesc.Text = fullText
+	
+	' Approximate height (using 30 characters per line at 17sp)
+	Dim charCount As Int = fullText.Length
+	Dim estimatedLines As Int = (charCount / 25) + 5 ' Rough estimate
+	Dim textHeight As Int = estimatedLines * 25dip
+	
+	svDetail.Panel.AddView(bDesc, 15dip, curY, 100%x - 30dip, textHeight)
+	
+	svDetail.Panel.Height = curY + textHeight + 50dip 
+End Sub
+
+Sub Activity_KeyPress (KeyCode As Int) As Boolean
+	If KeyCode = KeyCodes.KEYCODE_BACK Then
+		If pnlDetail.Visible Then
+			pnlDetail.Visible = False
+			Return True
+		End If
+		
+		' Ask for exit if not in detail view via a separate sub
+		ConfirmExit
+		Return True
+	End If
+	Return False
+End Sub
+
+Sub ConfirmExit
+	Msgbox2Async("Do you want to exit?", "Exit", "Yes", "", "No", Null, False)
+	Wait For Msgbox_Result (Result As Int)
+	If Result = DialogResponse.POSITIVE Then
+		Activity.Finish
+	End If
+End Sub
+
+#If JAVA
+import android.webkit.WebSettings;
+import android.webkit.WebView;
+
+public static void configureWebView(WebView wv) {
+    try {
+        WebSettings s = wv.getSettings();
+        s.setJavaScriptEnabled(true);
+        s.setDomStorageEnabled(true);
+        s.setDatabaseEnabled(true);
+        s.setAllowFileAccess(true);
+        s.setAllowContentAccess(true);
+        // Critical: allow file:// pages to load other file:// resources cross-directory
+        s.setAllowFileAccessFromFileURLs(true);
+        s.setAllowUniversalAccessFromFileURLs(true);
+        WebView.setWebContentsDebuggingEnabled(true);
+    } catch (Exception e) {
+        android.util.Log.e("B4A", "configureWebView error: " + e.getMessage());
+    }
+}
+#End If

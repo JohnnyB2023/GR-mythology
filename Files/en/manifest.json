@@ -1,0 +1,26 @@
+{
+    "name": "Greek Mythology",
+    "short_name": "Mythology",
+    "description": "Digital Encyclopedia of Greek Mythology — 247 entries",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#0A0A18",
+    "theme_color": "#0A0A18",
+    "orientation": "portrait-primary",
+    "lang": "en",
+    "categories": [
+        "education",
+        "books",
+        "reference"
+    ],
+    "icons": [
+        {
+            "src": "../images/images/search-icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "screenshots": [],
+    "prefer_related_applications": false
+}

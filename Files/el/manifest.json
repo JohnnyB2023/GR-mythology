@@ -1,0 +1,30 @@
+{
+  "name": "Ελληνική Μυθολογία",
+  "short_name": "Μυθολογία",
+  "description": "Ψηφιακή Εγκυκλοπαίδεια Ελληνικής Μυθολογίας — 247 λήμματα",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0A0A18",
+  "theme_color": "#0A0A18",
+  "orientation": "portrait-primary",
+  "lang": "el",
+  "categories": [
+    "education",
+    "books",
+    "reference"
+  ],
+  "icons": [
+    {
+      "src": "../images/images/med_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "../images/images/med_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
