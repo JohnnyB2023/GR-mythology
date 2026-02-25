@@ -1,0 +1,12 @@
+Objects/
+bin/
+gen/
+*.py
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.tmp
+*.log
+backup/
+backups/
+extra images/

@@ -6,7 +6,6 @@ C:\Android\platforms\android-36\android.jar
 --min-api
 21
 C:\Android\tools\..\extras\b4a_local\unpacked-b4ashared-63888251086000\dex_v1\b4ashared.zip
-C:\Android\tools\..\extras\b4a_local\unpacked-debug-63888251086000\dex_v1\debug.zip
 c:\android\tools\..\extras\b4a_remote\androidx\multidex\multidex\2.0.1\unpacked-multidex-2.0.1\jars\classes.zip
 C:\Android\tools\..\extras\b4a_local\unpacked-core-63888251086000\dex_v1\core.zip
 C:\Android\tools\..\extras\b4a_local\unpacked-javaobject-63888251086000\dex_v1\javaobject.zip
@@ -66,6 +65,7 @@ C:\Android\PROJECTS\New_Mythology\Objects\dexed\gr\mythologia\main$ResumableSub_
 C:\Android\PROJECTS\New_Mythology\Objects\dexed\gr\mythologia\main$ResumableSub_ConfirmExit.dex
 C:\Android\PROJECTS\New_Mythology\Objects\dexed\gr\mythologia\main$ResumeMessage.dex
 C:\Android\PROJECTS\New_Mythology\Objects\dexed\gr\mythologia\main$WaitForLayout.dex
+C:\Android\PROJECTS\New_Mythology\Objects\dexed\gr\mythologia\main$_linkmatch.dex
 C:\Android\PROJECTS\New_Mythology\Objects\dexed\gr\mythologia\main.dex
 C:\Android\PROJECTS\New_Mythology\Objects\dexed\gr\mythologia\R$drawable.dex
 C:\Android\PROJECTS\New_Mythology\Objects\dexed\gr\mythologia\R.dex
